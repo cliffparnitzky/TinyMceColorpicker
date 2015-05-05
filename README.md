@@ -41,3 +41,25 @@ Screenshot
 ----------
 
 ![Screenshot](screenshot.jpg)
+
+
+Additional information
+----------------------
+
+### Special notes
+
+This plugin is used by text color plugin. It will be integrated in color chooser to define a custom color.
+
+### Information in the wiki
+
+#### Create a new ...
+
+* [Creating a new plugin](wiki/Creating-a-new-plugin)
+* [Creating a new setup](wiki/Creating-a-new-setup)
+
+#### Installation hints
+* [Install manually](wiki/Install-manually)
+
+#### Bug report hints
+
+* [Report a bug](wiki/Report-a-bug)
