@@ -48,7 +48,7 @@ Additional information
 
 ### Special notes
 
-This plugin is used by text color plugin. It will be integrated in color chooser to define a custom color.
+This plugin is used by [[TinyMceTextColor]](https://github.com/cliffparnitzky/TinyMceTextColor). It will be integrated in color chooser to define a custom color.
 
 ### Information in the wiki
 
